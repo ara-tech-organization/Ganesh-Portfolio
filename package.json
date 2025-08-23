@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "/",
-
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@emotion/react": "^11.14.0",
@@ -18,6 +17,7 @@
     "framer-motion": "^12.23.6",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-helmet-async": "^2.0.5",
     "react-router-dom": "^7.7.0",
     "react-scripts": "5.0.1",
     "react-scroll": "^1.9.3",
