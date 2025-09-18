@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Ganesh-Portfolio/static/css/main.8f9cbf07.css",
-    "main.js": "/Ganesh-Portfolio/static/js/main.6c42bbe1.js",
-    "static/media/2.png": "/Ganesh-Portfolio/static/media/2.0ba4b58512f63718c8c8.png",
+    "main.css": "/Ganesh-Portfolio/static/css/main.4b18bbd0.css",
+    "main.js": "/Ganesh-Portfolio/static/js/main.eb3785fa.js",
     "static/media/4.png": "/Ganesh-Portfolio/static/media/4.9b80556dc7baa43dbc0d.png",
     "static/media/12.png": "/Ganesh-Portfolio/static/media/12.32368489b1d47fc7830b.png",
-    "static/media/1.png": "/Ganesh-Portfolio/static/media/1.9f4fa4fe03bcab3f7c29.png",
+    "static/media/1.png": "/Ganesh-Portfolio/static/media/1.688232da23b1be35b6cb.png",
+    "static/media/GP.png": "/Ganesh-Portfolio/static/media/GP.775b564b8b6e282e1746.png",
     "static/media/9.png": "/Ganesh-Portfolio/static/media/9.7c4ee1d6c7bf7e198a99.png",
     "static/media/3.jpg": "/Ganesh-Portfolio/static/media/3.292725a673be03f324ee.jpg",
     "static/media/13.png": "/Ganesh-Portfolio/static/media/13.1b6f7f51fa232bd16059.png",
     "static/media/11.png": "/Ganesh-Portfolio/static/media/11.6e20d58a9c55978174a9.png",
     "static/media/10.png": "/Ganesh-Portfolio/static/media/10.ffa51025b19ae2c6d764.png",
     "index.html": "/Ganesh-Portfolio/index.html",
-    "main.8f9cbf07.css.map": "/Ganesh-Portfolio/static/css/main.8f9cbf07.css.map",
-    "main.6c42bbe1.js.map": "/Ganesh-Portfolio/static/js/main.6c42bbe1.js.map"
+    "main.4b18bbd0.css.map": "/Ganesh-Portfolio/static/css/main.4b18bbd0.css.map",
+    "main.eb3785fa.js.map": "/Ganesh-Portfolio/static/js/main.eb3785fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f9cbf07.css",
-    "static/js/main.6c42bbe1.js"
+    "static/css/main.4b18bbd0.css",
+    "static/js/main.eb3785fa.js"
   ]
 }
