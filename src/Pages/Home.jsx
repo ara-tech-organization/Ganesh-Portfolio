@@ -9,10 +9,12 @@ function Home() {
   return (
     <div>
       <Helmet>
-        <title>Ganesh Prabhu Arivanantham</title>
+        <title>
+          🚀 Ganesh Prabhu – Product Manager & Digital Transformation Strategist
+        </title>
         <meta
           name="description"
-          content="Ganesh Prabhu Arivanantham - Product Manager, Digital Transformation Strategist & Business Analyst. Empowering education, clinics & franchises through automation, strategy & growth."
+          content="Driving growth through automation, strategy, and innovation, Ganesh Prabhu empowers education, clinics, and franchise businesses with impactful digital solutions and business insights."
         />
         <meta
           name="keywords"

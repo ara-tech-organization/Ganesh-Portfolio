@@ -2,7 +2,7 @@
   "name": "ganesh-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ara-tech-organization.github.io/Ganesh-Portfolio",
+  "homepage": "",
 
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
